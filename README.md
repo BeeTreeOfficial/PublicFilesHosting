@@ -1,10 +1,9 @@
 https://github.com/M2Team/NanaZip/releases/tag/5.0.1263.0
-https://www.virtualbox.org/wiki/Downloads
 https://www.roblox.com/home
-https://my.kaspersky.com/MyDevices#/portal/pages/devices
 https://github.com/ValdikSS/GoodbyeDPI/releases/tag/0.2.2
-https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html
 https://github.com/amnezia-vpn/amnezia-client/releases/tag/4.8.5.0
 https://github.com/bol-van/zapret/blob/master/docs/quick_start_windows.md
-https://go.dev/
 https://www.google.com/chrome/
+
+
+https://mega.nz/folder/uLgDDIZZ#I_rQQt2N1_DWx2AefceGFg // For the rest of the files
