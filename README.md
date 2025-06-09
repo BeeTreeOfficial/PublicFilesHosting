@@ -8,3 +8,4 @@ https://www.google.com/chrome/
 
 https://mega.nz/folder/uLgDDIZZ#I_rQQt2N1_DWx2AefceGFg // For the rest of the files
 https://github.com/ventoy/Ventoy
+https://msdl.gravesoft.dev/
